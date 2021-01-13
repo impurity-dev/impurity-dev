@@ -13,6 +13,6 @@ I am a senior software engineer from Boston, MA with a computer science bachelor
 
 </div>
 
-<div style="text-align: right">
+<div align="right">
     <a href="https://stackoverflow.com/users/10219720/impurity"><img src="https://stackoverflow.com/users/flair/10219720.png?theme=dark" width="208" height="58" alt="profile for Impurity at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Impurity at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
