@@ -45,12 +45,9 @@ I am a senior software engineer from Boston, MA with a computer science bachelor
 
 <div align="left">
 
-<ul>
-<li style="list-style-type: none;">📚 MS in Computer Science, Specializing in Interactive Intelligence</li>
-<li style="list-style-type: none;">📝 Creating myself a personal website [Personal Website](https://impurity-dev.github.io/professional-website/) using BabylonJS, Typescript, and Webpack</li>
-<li style="list-style-type: none;">🛠 Working full time as a Senior Software Engineer</li>
-</ui>
-
+📚 MS in Computer Science, Specializing in Interactive Intelligence    
+📝 Creating myself a personal website [Personal Website](https://impurity-dev.github.io/professional-website/) using BabylonJS, Typescript, and Webpack    
+🛠 Working full time as a Senior Software Engineer    
 
 </div>
 
