@@ -1,13 +1,13 @@
 
 <div align="center">
-    <img src="https://media-exp3.licdn.com/dms/image/C4E16AQHBFKF3FtwNhg/profile-displaybackgroundimage-shrink_200_800/0/1610501807226?e=1631145600&v=beta&t=HvO_8tV893atYH1r2jmI1pkMW6281BwotV5_WefQn90" alt="Banner with technologies icons" />
+    <img src="[[https://media-exp3.licdn.com/dms/image/C4E16AQHBFKF3FtwNhg/profile-displaybackgroundimage-shrink_200_800/0/1610501807226?e=1631145600&v=beta&t=HvO_8tV893atYH1r2jmI1pkMW6281BwotV5_WefQn90](https://media.licdn.com/dms/image/D4E16AQE-8wo7Lw1P4Q/profile-displaybackgroundimage-shrink_350_1400/0/1690823075718?e=1696464000&v=beta&t=wFPMPnvJrohlzhgsv2THv8bYzsGJ-PMLcaPa6sn3iCA)](https://media.licdn.com/dms/image/D4E16AQE-8wo7Lw1P4Q/profile-displaybackgroundimage-shrink_350_1400/0/1690823075718?e=1696464000&v=beta&t=wFPMPnvJrohlzhgsv2THv8bYzsGJ-PMLcaPa6sn3iCA)" alt="Banner with technologies icons" />
 </div>
 
 <div align="center">
 
 # Hi, I'm Tyler! 👾
 
-I am a principal software engineer from Boston, MA with a computer science bachelors degree. Currently, I am pursuing my masters in computer science, specializing in interactive intelligence. I seek to utilize artificial intelligence, machine learning, and cloud-based technologies to maximize effectiveness of applications through personalization and analytics.
+I am a solutions software engineer from Boston, MA with a masters of computer science, specializing in interactive intelligence. I seek to utilize artificial intelligence, machine learning, and cloud-based technologies to maximize effectiveness of applications through personalization and analytics.
 
 </div>
 
@@ -45,9 +45,9 @@ I am a principal software engineer from Boston, MA with a computer science bache
 
 <div align="left">
 
-📚 MS in Computer Science, Specializing in Interactive Intelligence    
+📚 Learning AI, ML, and DL techniques to develop myself as a industry leader as we dive deeper into the singularity    
 📝 Creating myself a personal website [Personal Website](https://impurity-dev.github.io/professional-website/) using BabylonJS, Typescript, and Webpack    
-🛠 Working full time as a Senior Software Engineer    
+🛠 Working full time as a Solutions Engineer    
 
 </div>
 
