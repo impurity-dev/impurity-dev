@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="[[https://media-exp3.licdn.com/dms/image/C4E16AQHBFKF3FtwNhg/profile-displaybackgroundimage-shrink_200_800/0/1610501807226?e=1631145600&v=beta&t=HvO_8tV893atYH1r2jmI1pkMW6281BwotV5_WefQn90](https://media.licdn.com/dms/image/D4E16AQE-8wo7Lw1P4Q/profile-displaybackgroundimage-shrink_350_1400/0/1690823075718?e=1696464000&v=beta&t=wFPMPnvJrohlzhgsv2THv8bYzsGJ-PMLcaPa6sn3iCA)](https://media.licdn.com/dms/image/D4E16AQE-8wo7Lw1P4Q/profile-displaybackgroundimage-shrink_350_1400/0/1690823075718?e=1696464000&v=beta&t=wFPMPnvJrohlzhgsv2THv8bYzsGJ-PMLcaPa6sn3iCA)" alt="Banner with technologies icons" />
+    <img src="assets/banner.svg" alt="Banner with technologies icons" />
 </div>
 
 <div align="center">
