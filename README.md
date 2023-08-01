@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="assets/banner.svg" alt="Banner with technologies icons" />
+    <img src="assets/banner.png" alt="Banner with technologies icons" />
 </div>
 
 <div align="center">
