@@ -47,7 +47,7 @@ I am a solutions software engineer from Boston, MA with a masters of computer sc
 
 📚 Learning AI, ML, and DL techniques to develop myself as a industry leader as we dive deeper into the singularity    
 📝 Creating myself a personal website [Personal Website](https://impurity-dev.github.io/professional-website/) using BabylonJS, Typescript, and Webpack    
-🛠 Working full time as a Solutions Engineer    
+🛠 Working as a Software Architect, creating cloud-based solutions for enterprise
 
 </div>
 
