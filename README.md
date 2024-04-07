@@ -7,7 +7,7 @@
 
 # Hi, I'm Tyler! 👾
 
-I am a solutions software engineer from Boston, MA with a masters of computer science, specializing in interactive intelligence. I seek to utilize artificial intelligence, machine learning, and cloud-based technologies to maximize effectiveness of applications through personalization and analytics.
+I am a software architect from Boston, MA with a masters of computer science, specializing in interactive intelligence. I seek to utilize artificial intelligence, machine learning, and cloud-based technologies to maximize effectiveness of applications through personalization and analytics. In my free time, I enjoy learning about computer graphics, games, and shaders!
 
 </div>
 
