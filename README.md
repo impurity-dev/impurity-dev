@@ -46,7 +46,7 @@ I am a software architect from Boston, MA with a masters of computer science, sp
 <div align="left">
 
 📚 Learning AI, ML, and DL techniques to develop myself as a industry leader as we dive deeper into the singularity    
-📝 Creating myself a personal website [Personal Website](https://impurity-dev.github.io/professional-website/) using BabylonJS, Typescript, and Webpack    
+📝 Creating myself a personal website [Personal Website](https://impurity-dev.github.io/professional-website/) using BabylonJS, Typescript, and Vite    
 🛠 Working as a Software Architect, creating cloud-based solutions for enterprise
 
 </div>
